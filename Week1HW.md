@@ -1,4 +1,8 @@
+# Map Screenshot
 
+# Color Palette Used
+
+# Summary of Design Decisions
 
 # JSON Code Sample
 [
