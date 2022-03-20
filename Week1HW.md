@@ -2,7 +2,7 @@
 It's common to find that organizations want a useful map that match the rest of their website, but don't have access to Esri software. This assignment demonstrates how to create an embed-ready map that doesn't require knowledge about or the use of propiertary Esri software.
 
 ## Choosing an organization & generating its color palette
-For this assignment I selected the Breathe Project, an non-profit advocacy group that provides information on air quality in the Pittsburgh area. To ensure that the map I built would match the look and feel of the Breathe Project's existing website, I took a representative screenshot for reference.
+For this assignment I selected the Breathe Project, a non-profit advocacy group that provides information on air quality in the Pittsburgh area. To ensure that the map I built would match the look and feel of the Breathe Project's existing website, I took a representative screenshot for reference.
 
 ![Breathe Project Color Sample](https://user-images.githubusercontent.com/92963323/159184287-19da4ff5-fef8-4280-b7d8-16b4be307027.png)
 
