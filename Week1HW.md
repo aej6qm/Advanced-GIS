@@ -13,6 +13,10 @@ With this in mind, I uploaded this color sample to Canva to generate the hex cod
 ## Summarizing design decisions
 In Google's Map Styling Wizard, I chose the Standard theme and in the "MORE OPTIONS" window changed the color codes according to the hex codes I created using Canva.
 
+![Screen Shot 2022-03-20 at 5 05 07 PM](https://user-images.githubusercontent.com/92963323/159185965-9009dbfd-d40a-4353-9230-ba7b8a033e6c.png)
+
+Because Pittsburgh has a lot of waterways, I used a dark blue landmass color to contrast the light blue of the rivers. To draw attention to Points of Interest, I went back into Canva to create a bright blue based on the Breathe Project website's toolbar. I used various shades of yellow and orange for the roads
+shades of gray for the text, and  
 
 ## JSON Code Sample
 [
