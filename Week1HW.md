@@ -15,9 +15,9 @@ In Google's Map Styling Wizard, I chose the Standard theme and in the "MORE OPTI
 
 ![Screen Shot 2022-03-20 at 5 05 07 PM](https://user-images.githubusercontent.com/92963323/159185965-9009dbfd-d40a-4353-9230-ba7b8a033e6c.png)
 
-Because Pittsburgh has a lot of waterways, I used a dark blue landmass color to contrast the light blue of the rivers. To draw attention to Points of Interest, I went back into Canva to create a bright blue shade based on that of the Breathe Project website's toolbar. I did the same thing for park features, creating a light green based on the leaves shown on the original screenshot I took from the Breathe Project. I adjusted default shades of yellow and orange to signify transit services while matching the rest of the Breathe Project color palette and largely retained some built-in colors for certain areas adjusting them only slightly to fit the overall theme.  
+In designing this map I tried to create an output that would fit seamlessly into the Breathe Project's current color theme. Since Pittsburgh has a lot of waterways and parks, represented by light colors, I wanted to contrast these areas with darker land  without overshadowing the important underlying features. To draw attention to these designated points of interest, I went back into Canva to create a bright blue shade based on that of the Breathe Project website's toolbar. I did the same thing for park features, creating a light green based on the leaves shown in the original screenshot I took from the Breathe Project. I adjusted default shades of yellow and orange to signify transit services while matching the rest of the Breathe Project color palette and largely retained some built-in colors for certain areas, adjusting them only slightly to fit the overall theme. Comparing the map that I created and the Breathe Project website I think that the two fit well together; despite the contrast the map has a lightness to it that blends well with the Breathe Project's look.
 
-## JSON Code Sample
+### JSON Code Sample
 [
   {
     "elementType": "geometry",
