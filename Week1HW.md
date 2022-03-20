@@ -1,6 +1,14 @@
-# Map Screenshot
+# Assignment 1: Build and deploy a custom Google Map for a non-profit organization
+It's common to find that organizations want a useful map that match the rest of their website, but don't have access to Esri software. This assignment demonstrates how to create an embed-ready map that doesn't require knowledge about or the use of propiertary Esri software.
 
-# Color Palette Used
+## Selecting a Color Palette
+For this assignment I selected the Breathe Project, an non-profit advocacy group that provides information on air quality in the Pittsburgh area. To ensure that the map I built would match the look and feel of the Breathe Project's existing website, I took a representative screenshot for reference.
+
+![Breathe Project Color Sample](https://user-images.githubusercontent.com/92963323/159184287-19da4ff5-fef8-4280-b7d8-16b4be307027.png)
+
+With this in mind, I uploaded this color sample to Canva to acquire the hex codes necessary to replicate the website colors in my map.
+
+![Canva Screenshot](https://user-images.githubusercontent.com/92963323/159184315-c6540350-7d3f-4700-a20a-3232ff8c1dc0.png)
 
 # Summary of Design Decisions
 
