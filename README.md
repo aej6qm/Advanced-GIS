@@ -1,4 +1,4 @@
-# [Advanced-GIS](http://aej6qm.github.io/Advanced-GIS.html)
+# [Advanced-GIS](https://aej6qm.github.io/Advanced-GIS/)
 
 ## In-Class Exercise, Week 1
 ### Here is my proposed map for SummerFest!
