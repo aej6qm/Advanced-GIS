@@ -55,7 +55,7 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#c5d9e0"
+        "color": "#9dacb3"
       }
     ]
   },
