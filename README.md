@@ -9,7 +9,7 @@ Before coming to Carnegie Mellon, I received my BA in American Studies and Socio
 ![12A7BBBA-FA10-4633-B169-09EA6370C8B2_1_105_c](https://user-images.githubusercontent.com/92963323/159191789-d7ea6718-b84a-436f-a20d-f92d5b27292f.jpeg)
 
 ## What I hope to learn
-I'm excited to come away from this class having acquired the skills and tools necessary to simplify complicated data sets and convey a narrative using that data. I really enjoyed the introduction to GIS I received last semester but since not every organization has accesss to Esri tools it's useful to be able to create maps using a wide variety of platforms.
+I'm excited to come away from this class having acquired the skills and tools necessary to simplify complicated data sets and convey a narrative using that data. I really enjoyed the introduction to ArcGIS I received last semester, but since not every organization has accesss to Esri tools it's useful to be able to create maps using a wide variety of platforms.
 
 After graduation, I plan to work as a analytics consultant where I will continue to convey complex narratives using easy to understand visualizations.
 
