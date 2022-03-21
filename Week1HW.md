@@ -19,4 +19,4 @@ In designing this map I tried to create an output that would fit seamlessly into
 
 ![Screen Shot 2022-03-20 at 7 38 38 PM](https://user-images.githubusercontent.com/92963323/159190964-133062c0-b6ad-4f4f-8341-b9c6562b635e.png)
 
-Go [here](/jsoncode1.md) to view the JSON code for this map and the dynamic map [here](/Week1Map.html). 
+View the final, dynamic map [here](/Week1Map.html) and go [here](/jsoncode1.md) to view the JSON code. 
