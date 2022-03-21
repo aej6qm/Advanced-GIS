@@ -4,7 +4,7 @@ Welcome to my public portfolio for Advanced GIS at Carnegie Mellon University, S
 ## About me
 Hi! My name is Anne (she/her) and I'm a second-year graduate student at CMU studying public policy and management. My areas of interest include social and environmental policy, especially at the intersection of race and environmental justice. 
 
-Before coming to Carnegie Mellon, I received my BA in American Studies and Sociology from the University of Virginia. I have some campaign experience, and spent a year working as an AmeriCorps VISTA in the Greater Pittsburgh area. In my free time I enjoy running, hiking, and playing with my Sheltie puppy, Buddy.
+Before coming to Carnegie Mellon, I received my BA in American Studies and Sociology from the University of Virginia. I have research and analytics experience, and spent a year working as an AmeriCorps VISTA in the Greater Pittsburgh area prior to coming to Carnegie Mellon. In my free time I enjoy running, hiking, and playing with my Sheltie puppy, Buddy.
 
 ![12A7BBBA-FA10-4633-B169-09EA6370C8B2_1_105_c](https://user-images.githubusercontent.com/92963323/159191789-d7ea6718-b84a-436f-a20d-f92d5b27292f.jpeg)
 
