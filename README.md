@@ -18,3 +18,5 @@ After graduation, I plan to work as a analytics consultant where I will continue
 ## [In-Class Exercise, Week 1](/inclassweek1.md)
 
 ## [Week 1 Homework](/Week1HW.md)
+
+## [In-Class Exercises, Week 2](/inclassweek2.md)
