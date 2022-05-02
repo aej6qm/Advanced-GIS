@@ -11,14 +11,12 @@ Before coming to Carnegie Mellon, I received my BA in American Studies and Socio
 ## What I hope to learn
 I'm excited to come away from this class having acquired the skills and tools necessary to simplify complicated data sets and convey a narrative using that data. I really enjoyed the introduction to ArcGIS I received last semester, but since not every organization has accesss to Esri tools it's useful to be able to create maps using a wide variety of platforms.
 
-After graduation, I plan to work as a analytics consultant where I will continue to convey complex narratives using easy to understand visualizations.
+After graduation, I will be working as a analytics consultant where I will continue to convey complex narratives using easy to understand visualizations.
 
 # Portfolio
 
-## [In-Class Exercise, Week 1](/inclassweek1.md)
+## [In-Class Exercises](/inclass.md)
 
-## [Week 1 Homework](/Week1HW.md)
+## [Homework](/HW.md)
 
-## [In-Class Exercises, Week 2](/inclassweek2.html)
-
-## [Week 2 Homework](/Week2HW.md)
+## [Final Project](/finalproject.md)
