@@ -9,3 +9,5 @@ The initial documentation for Part I includes a hypothetical bid for a theoretic
 ## [Part II](https://docs.google.com/document/d/1tg96GSlRw_Z8ZzxBD3FRuDIBWLiyqEwV7pD2lOTNmmI/edit?usp=sharing)
 
 The link attached above contains the final materials for this project, include an updated project overview document, final process log, final document progress, and final assets. For ease of discovery, the storymap for this project can be found [here](https://storymaps.arcgis.com/stories/22d752d0c05e465f98403423bd217f53).
+
+Return to the main page [here](/README.md)!
